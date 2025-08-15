@@ -9,6 +9,9 @@ genetic marker and rapidly depart from the group.
 
 ## Demo:
 ![giphy](https://github.com/user-attachments/assets/5dd8644e-1970-475c-b73c-a56de93756f5)
+<img width="2559" height="1439" alt="Screenshot 2025-08-14 221108" src="https://github.com/user-attachments/assets/ea54332b-7ee9-4c91-bcc7-affaf72e82db" />
+
+
 
 ## Key Features
 - Real-time genetic algorithm simulation
