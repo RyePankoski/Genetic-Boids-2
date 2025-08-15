@@ -1,5 +1,5 @@
 ## Genetic Boids:
-This is my second boids simulation. It is a real time flocking simulator that in my case, uses rgb a sort of stand in for genes. The boids evolve and as they do their colors change to reflect this. Boids only flock with boids of the same genetic marker.
+This is my second boids simulation. It is a real time flocking simulator. The boids evolve and as they do their colors change. Boids only flock with boids of the same genetic marker.
 
 ## What it does:
 When you run the sim, a single boid named adam begins to fly in a random direction. After a while, he will die of old age, and split into n children who will all inheret his rgb genes, with some random mutation. These children will then fly on until they too die and split apart.
